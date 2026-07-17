@@ -1,0 +1,6 @@
+[11664:11708:0717/092340.279:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[11664:11708:0717/092340.384:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[26524:26592:0717/092345.832:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-0C3BA0A82C5C26669FE7B3769353DE06 will be ignored
+[26504:24364:0717/092346.584:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 7
+[11664:11708:0717/092945.917:ERROR:device_event_log_impl.cc(196)] [09:29:45.917] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+[11664:11708:0717/133609.509:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
